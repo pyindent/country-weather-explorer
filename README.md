@@ -96,7 +96,7 @@ The application will follow a **modular and scalable architecture** based on Rea
 - GraphQL Schema Generation: `graphql-codegen` for auto-generating TypeScript types.
 
 #### **Testing:**
-- Unit Tests: React Testing Library & Jest (components, hooks).
+- Unit Tests: React Testing Library & Vitest (components, hooks).
 - Integration Tests: Mock GraphQL and REST APIs.
 
 ---
