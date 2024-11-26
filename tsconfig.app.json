@@ -22,5 +22,5 @@
     "noFallthroughCasesInSwitch": true,
     "noUncheckedSideEffectImports": true
   },
-  "include": ["src", "postcss.config.ts"]
+  "include": ["src", "postcss.config.ts", "vitest.setup.ts"]
 }
